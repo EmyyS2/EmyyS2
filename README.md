@@ -1,4 +1,4 @@
-# 👋 Olá! Bem-vindo aos meu perfil no Github.
+# 👋 Olá! Bem-vindo ao meu perfil no Github.
 ## Meu nome é Emilly Gabriele, mas pode me chamar de Emy!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
