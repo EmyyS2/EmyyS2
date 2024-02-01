@@ -1,11 +1,11 @@
 # 👋 Olá! Bem-vindo aos meu perfil no Github.
 ## Meu nome é Emilly Gabriele, mas pode me chamar de Emy!
----------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 - 🎂 Tenho 17 anos
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 💻 Estou aprendendo a desenvolver [Front-End|Back-End]
 - 🔭 Atualmente estou trabalhando em [Pandora Vogue Velvet](https://github.com/EmyyS2/PandoraVogueVelvet.git)
-- 🌱 Atualmente estou aprendendo: PHP e TypeScript
+- 🌱 Atualmente estou aprendendo: PHP, TypeScript, React Native(Mobile)
 - 👾 Tecnologias e Ferramentas:
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
