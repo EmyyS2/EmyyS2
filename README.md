@@ -1,5 +1,6 @@
 # 👋 Olá! Bem-vindo aos meu perfil no Github.
-## Meu nome é Emilly Gabriele e meu apelido é Emy!
+## Meu nome é Emilly Gabriele, mas pode me chamar de Emy!
+- 🎂 Tenho 17 anos
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 💻 Estou aprendendo a desenvolver [Front-End|Back-End]
 - 🔭 Atualmente estou trabalhando em [Pandora Vogue Velvet](https://github.com/EmyyS2/PandoraVogueVelvet.git)
