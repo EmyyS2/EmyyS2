@@ -25,7 +25,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyyS2&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EmyyS2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmyyS2_count_private=true&theme=radical&card_width=445)<br><br>
 
 - 📨 Entre em contato comigo:
 
