@@ -1,5 +1,11 @@
 # 👋 Olá! Bem-vindo aos meu perfil no Github.
 ## Meu nome é Emilly Gabriele, mas pode me chamar de Emy!
+<div align="center">
+  <a href="https://EmyyS2.github.io/EmyyS2/">
+  <img  src="https://github.com/EmyyS2/EmyyS2/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+---------
 - 🎂 Tenho 17 anos
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 💻 Estou aprendendo a desenvolver [Front-End|Back-End]
