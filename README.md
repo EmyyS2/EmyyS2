@@ -4,8 +4,7 @@
 - 🔭 Atualmente estou trabalhando em [Pandora Vogue Velvet](https://github.com/EmyyS2/PandoraVogueVelvet.git)
 - 🌱 Atualmente estou aprendendo: PHP
 - 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+
 <div>
 <a href="https://github.com/EmyyS2">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyyS2&layout=compact&langs_count=7&theme=dracula"/>
