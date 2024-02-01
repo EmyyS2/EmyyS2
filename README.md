@@ -2,7 +2,8 @@
 ## Meu nome é Emilly Gabriele e meu apelido é Emy!
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 🔭 Atualmente estou trabalhando em [Pandora Vogue Velvet](https://github.com/EmyyS2/PandoraVogueVelvet.git)
-- 🌱 Atualmente estou aprendendo:<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+- 🌱 Atualmente estou aprendendo:<img loading="lazy" src="
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
