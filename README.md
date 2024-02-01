@@ -2,7 +2,7 @@
 ## Meu nome é Emilly Gabriele e meu apelido é Emy!
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 🔭 Atualmente estou trabalhando em [Pandora Vogue Velvet](https://github.com/EmyyS2/PandoraVogueVelvet.git)
-- 🌱 Atualmente estou aprendendo: PHP
+- 🌱 Atualmente estou aprendendo: PHP e TypeScript
 - 📫 Como entrar em contato comigo: ...
 
 <div>
