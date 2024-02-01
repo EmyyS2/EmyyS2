@@ -2,6 +2,17 @@
 ## Meu nome é Emilly Gabriele, mas pode me chamar de Emy!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+
+       
+</div>
+
+
+
 - 🎂 Tenho 17 anos
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 💻 Estou aprendendo a desenvolver [Front-End|Back-End]
