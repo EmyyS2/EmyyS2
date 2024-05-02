@@ -6,7 +6,7 @@
 - 🎂 Tenho 17 anos
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 💻 Estou aprendendo a desenvolver [Front-End|Back-End]
-- 🔭 Atualmente estou trabalhando em [Pandora Vogue Velvet](https://github.com/EmyyS2/PandoraVogueVelvet.git)
+- 🔭 Atualmente estou trabalhando em []()
 - 🌱 Estou aprendendo: PHP, TypeScript, React Native(Mobile)
 - 👾 Tecnologias e Ferramentas:
   
