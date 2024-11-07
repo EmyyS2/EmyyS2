@@ -6,7 +6,7 @@
 - 🎂 Tenho 17 anos
 - 🏫 Sou estudante do SENAI na escola SESI268 •ᴗ•
 - 💻 Estou aprendendo a desenvolver [Front-End|Back-End]
-- 🔭 Atualmente estou trabalhando em []()
+- 🔭 Atualmente estou trabalhando em [Utopet](https://github.com/alexfigueirinha/utopet.git)
 - 🌱 Estou aprendendo: PHP, TypeScript, React Native(Mobile)
 - 👾 Tecnologias e Ferramentas:
   
